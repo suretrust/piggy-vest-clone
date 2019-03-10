@@ -1,0 +1,43 @@
+body {
+    font-family: 'Varela Round', sans-serif;
+    font-size: 14px !important;
+}
+
+#logo {
+    max-height: 60px;
+}
+
+a {
+    color: #144499 !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Poppins', sans-serif;
+    color: #144499 !important;
+}
+
+#create {
+    border-color: #144499;
+    color: #144499;
+    font-size: 14px !important;
+}
+
+#create:hover {
+    background-color: #144499 !important;
+    color: white;
+}
+
+#create2 {
+    background: #30c57b;
+    color: white;  
+    font-size: 18px !important;
+}
+
+#better p {
+    color: #444;
+    font-size: 16px;
+}
+
+#better img {
+    height: 40px;
+}
